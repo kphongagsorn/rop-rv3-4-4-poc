@@ -1,4 +1,4 @@
-# ROP proof of concept exploit code for R v3.4.4
+# ROP Exploit Code for R v3.4.4
 
 This is my PoC exploit code for R v3.4.4.
 
